@@ -4,7 +4,7 @@ Paper presented at the **2025 SNPD International Conference**.
 
 **Authors:** Abraham Ighalo and Ajmery Sultana, School of Computer Science and Technology, Algoma University
 
-📄 [Read the paper (PDF)](SNPD_Conference_2025_Abraham.pdf)
+📄 [Read the paper](https://ieeexplore.ieee.org/document/11253302/authors#authors)
 
 ## Summary
 
